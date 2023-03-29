@@ -21,7 +21,6 @@ import pyautogui as gui
 import pandas as pd
 import time
 import pyperclip
-from pathlib import Path
 
 
 # ##### Importar a base de dados
